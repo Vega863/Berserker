@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://repository-images.githubusercontent.com/401896390/32fca8d3-a345-46fb-8d8f-2b37a1e0a810", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/1080460431992295499/1090713338717147307/Kemet_-_Blood__Sand__Pierre_Santamaria.png", width="500", height="500">
 </p>
 
 -----
